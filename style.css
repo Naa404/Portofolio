@@ -124,6 +124,25 @@ nav ul li a:hover {
 }
 
 /* ============================= */
+/* BINGKAI FOTO HERO             */
+/* ============================= */
+
+.hero-logo-frame {
+  position: relative;
+  display: inline-block;
+  padding: 6px; /* Ketebalan bingkai border */
+  line-height: 0; /* Menghilangkan gap bawah gambar */
+}
+
+.hero-logo-frame img {
+  width: 280px; /* Ukuran foto tetap sesuai permintaanmu */
+  height: auto;
+  border-radius: 18px; /* Sudut melengkung foto */
+  display: block;
+}
+
+
+/* ============================= */
 /* ABOUT SECTION                */
 /* ============================= */
 
